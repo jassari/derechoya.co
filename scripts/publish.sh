@@ -4,5 +4,5 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 GIT_SSH_COMMAND="${GIT_SSH_COMMAND:-ssh -i ~/.ssh/pc -o IdentitiesOnly=yes}" git push origin main
-curl --fail --silent --show-error -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/5dd59672-c39a-4985-8c90-4bdeaa1da861" >/dev/null
+curl --fail --silent --show-error -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/ab70299c-090b-4de5-b36f-36f71e3b5586" >/dev/null
 echo "Pushed and deployment requested: https://derechoya.co"
