@@ -1,0 +1,9 @@
+{
+  "name": "derechoya-edge",
+  "main": "index.js",
+  "compatibility_date": "2026-10-22",
+  "routes": [
+    { "pattern": "derechoya.co", "custom_domain": true },
+    { "pattern": "www.derechoya.co", "custom_domain": true }
+  ]
+}

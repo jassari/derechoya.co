@@ -1,0 +1,13 @@
+# Every push to main asks Cloudflare Pages to build and publish the site.
+# The URL is a Pages deploy hook: it can only redeploy this project's main branch.
+name: Deploy to Cloudflare Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger the Cloudflare Pages deploy hook
+        run: curl --fail --silent --show-error -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/5dd59672-c39a-4985-8c90-4bdeaa1da861"
