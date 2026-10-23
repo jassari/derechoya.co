@@ -1,0 +1,23 @@
+# derechoya.co
+
+> Guía digital en PDF, en español, sobre cómo presentar una acción de tutela cuando una EPS niega o demora un medicamento, una cirugía, una cita u otro servicio de salud en Colombia. Es información general y pedagógica: no es asesoría legal, no reemplaza a un abogado y no garantiza ningún resultado.
+
+## Qué es y qué no es
+- Es una guía para que la persona entienda y presente su propia tutela.
+- No evalúa casos concretos, no radica tutelas por nadie y no ofrece representación.
+- Alcance: tutela por salud contra EPS, en Colombia.
+
+## Contenido de la guía
+- Plantilla de ejemplo para llenar
+- Lista de documentos que se deben reunir
+- Errores comunes que llevan a que una tutela sea rechazada
+- Cómo radicarla desde el celular
+- Cómo presentarla en nombre de un familiar
+- Plazo del juez para responder (10 días hábiles, según la norma general)
+- Qué hacer si la EPS no responde o no cumple el fallo
+
+## Cómo conseguirla
+- La venta y la entrega se hacen por WhatsApp desde el botón de la página principal.
+
+## Páginas
+- [Página principal](https://derechoya.co/): descripción de la guía y contacto por WhatsApp
